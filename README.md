@@ -1,7 +1,7 @@
 # Labumo
 
-Labumo is an assistant for support, product guidance, and actions in websites and apps.
-It is in early development.
+Labumo is a commercial product in early development for support, product guidance,
+and actions in websites and apps.
 
 The planned experience combines answers from business-approved knowledge, concrete
 product actions, and handoff to a human in the same conversation. Each product will
@@ -12,11 +12,14 @@ Kotlin/Wasm. The first planned integration is with the 24mods platform.
 
 ## Status
 
-As of 2026-10-13, this repository contains only the public introduction. There is
-no working SDK, server, or deployment package yet. The capabilities above are plans.
+As of 2026-10-15, this repository contains only the public introduction. There is
+no working SDK, server, deployment package, or hosted service yet. The capabilities
+above are plans.
 
-The public code scope and license have not been chosen. A public repository does
-not mean that the entire Labumo product has been released as open source.
+This repository is the home for the public introduction and, as they become
+available, documentation, demos, and integration examples. The complete product
+source will be available to partners under separately agreed commercial terms.
+This introduction does not grant a product license or repository access.
 
 The primary product domain is `labumo.com`; the website is being prepared.
 
