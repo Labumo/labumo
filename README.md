@@ -1,20 +1,26 @@
 # Labumo
 
-Labumo — kuriamas pagalbos, mokymo ir veiksmų asistentas svetainėms bei programoms.
+Labumo is a commercial product in early development for support, product guidance,
+and actions in websites and apps.
 
-Numatoma patirtis: asistentas padeda pagal verslo patvirtintas žinias, pasiūlo atlikti
-konkretų veiksmą ir prireikus perduoda tą patį pokalbį žmogui. Kiekvienas produktas
-galės pasirinkti savo dizainą, asistento vardą ir personažą.
+The planned experience combines answers from business-approved knowledge, concrete
+product actions, and handoff to a human in the same conversation. Each product will
+be able to use its own design, assistant name, and persona.
 
-Technologinė kryptis — Kotlin Multiplatform, Compose Multiplatform ir Kotlin/Wasm.
-Pirmoji integracija planuojama 24mods platformoje.
+The technical direction is Kotlin Multiplatform, Compose Multiplatform, and
+Kotlin/Wasm. The first planned integration is with the 24mods platform.
 
-## Būsena
+## Status
 
-2026-10-13: produkto pradžia. Šiame repo kol kas yra tik viešas pristatymas;
-veikiančio SDK, serverio ar diegimo paketo dar nėra. Aprašytos galimybės yra planas.
+As of 2026-10-15, this repository contains only the public introduction. There is
+no working SDK, server, deployment package, or hosted service yet. The capabilities
+above are plans.
 
-Viešinamo kodo apimtis ir licencija dar nepasirinktos. Šio repo matomumas nėra
-pareiškimas, kad visas Labumo produktas jau išleistas kaip open source.
+This repository is the home for the public introduction and, as they become
+available, documentation, demos, and integration examples. The complete product
+source will be available to partners under separately agreed commercial terms.
+This introduction does not grant a product license or repository access.
 
-Pagrindinis produkto domenas — `labumo.com`; svetainė dar ruošiama.
+The primary product domain is `labumo.com`; the website is being prepared.
+
+Documentation, issues, pull requests, and release notes in this repository use English.
